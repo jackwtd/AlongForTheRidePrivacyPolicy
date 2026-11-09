@@ -1,6 +1,3 @@
-# AlongForTheRidePrivacyPolicy
-Privacy Policy for mobile app Along For The Ride
-
 <!DOCTYPE html>
     <html>
     <head>
