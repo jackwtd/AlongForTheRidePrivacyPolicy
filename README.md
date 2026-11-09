@@ -12,6 +12,8 @@ Privacy Policy for mobile app Along For The Ride
 
 &#x20;     <meta charset='utf-8'>
 
+&#x20;     <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
+
 &#x20;   </head>
 
 &#x20;   <body>
